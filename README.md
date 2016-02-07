@@ -26,3 +26,16 @@ This automatically takes care of web server forwarding and certificate generatio
 * Clone this repo into the QDK folder (normally `/share/MD0_DATA/.qpkg/QDK/`)
 * Make changes and copy into the installed app for testing
 * Run "`qbuild`" to create a new package
+
+# Acknowledgements
+
+## PlexConnect
+Courtesy of iBaa, roidy and many others on GitHub
+https://github.com/iBaa/PlexConnect
+
+## Icon
+Courtesy of rcork on the Plex forums
+https://forums.plex.tv/discussion/71729/icons-for-plexconnect
+
+# LICENSE
+Released under the MIT license
